@@ -1,18 +1,17 @@
-- 👋 Hi, I’m @nikko-notanengineer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nikita 
+- 👀 I’m interested in Data Analyist
+- 🌱 I’m currently learning power BI
+- 💞️ I’m looking to collaborate on Power BI
+- 📫 How to reach me via Email
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikko-notanengineer/nikko-notanengineer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikko-notanengineer/nikko-notanengineer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nikko-notanengineer/nikko-notanengineer/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nikko-notanengineer.nikko-notanengineer&"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -23,6 +22,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nikko-notanengineer.nikko-notanengineer&"  />
 </div>
 
 ###
