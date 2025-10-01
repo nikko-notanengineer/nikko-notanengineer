@@ -2,7 +2,11 @@
 - 👀 I’m interested in Data Analyist
 - 🌱 I’m currently learning power BI
 - 💞️ I’m looking to collaborate on Power BI
-- 📫 How to reach me via [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikitaduseja007@gmail.com) 
+- 📫 How to reach me via [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikitaduseja007@gmail.com)
+
+# 💻 Tech Stack:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikko-notanengineer/nikko-notanengineer/output/pacman-contribution-graph-dark.svg">
