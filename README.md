@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyist
 - 🌱 I’m currently learning power BI
 - 💞️ I’m looking to collaborate on Power BI
-- 📫 How to reach me via Email
+- 📫 How to reach me via [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikitaduseja007@gmail.com) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikko-notanengineer/nikko-notanengineer/output/pacman-contribution-graph-dark.svg">
